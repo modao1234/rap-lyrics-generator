@@ -4,14 +4,6 @@ This project is a fine-tuned **rap lyrics generator** based on the TinyLlama or 
 
 ---
 
-## Features
-
-- **Lyrics Preprocessing**: Parses raw text lyric files, removes metadata, intros, outros, and redundant chorus sections.
-- **Instruction Dataset Creation**: Converts lyrics into instruction-response format for supervised fine-tuning (SFT).
-- **LoRA Fine-tuning**: Uses Parameter-Efficient Fine-Tuning (PEFT) with LoRA to adapt large models efficiently.
-- **Rap Style Generation**: Generates rap lyrics following rhyme schemes, themes, and artist-specific patterns.
-
----
 
 ## Setup
 
